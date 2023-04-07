@@ -2,3 +2,10 @@
     position: sticky;
     top: 0;
 }
+.btn-clear-cart{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF3030;
+    color: white;
+}

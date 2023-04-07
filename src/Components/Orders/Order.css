@@ -1,0 +1,14 @@
+.review-container{
+    margin: 50px auto;
+}
+.btn-checkout{
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    color: white;
+}
+.cart-container a{
+    text-decoration: none;
+}
